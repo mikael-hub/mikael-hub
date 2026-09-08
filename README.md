@@ -1,4 +1,8 @@
-## Hi there 👋
+# Olá, eu sou o (Mikael)!
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python, HTML e CSS
+- Preparando-se para o mercado de tecnologia
+- Contato: mikaelbatista.pereira1@gmail.com
 
 <!--
 **mikael-hub/mikael-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
