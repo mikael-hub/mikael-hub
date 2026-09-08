@@ -4,6 +4,13 @@
 - Preparando-se para o mercado de tecnologia
 - Contato: mikaelbatista.pereira1@gmail.com
 
+- ![python](https://shields.io)
+- ![HTML](https://shields.io)
+- ![CSS](https://shields.io)
+
+
+
+
 <!--
 **mikael-hub/mikael-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
